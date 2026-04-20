@@ -1,12 +1,9 @@
-# build artifacts
-*.class
-*.swp
-*.tgz
+bin
 *.jar
 *.egg-info
 *.pyo
 *.pyc
-pox
 ip_config
 arp_cache
 rtable.*
+pox
