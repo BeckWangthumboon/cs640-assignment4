@@ -1,1 +1,5 @@
+# Mininet/PoX/router testing stuff
+assign4/
+*.tgz
 *.class
+*.swp
